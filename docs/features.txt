@@ -1,0 +1,4 @@
+
+Saving the post in linkedIn should be easy now by only clicking "Saved Post Icon" which will be visible on top.
+should be able to take input via keyboard.
+Should be able to open the post on voice command "Open Post"
